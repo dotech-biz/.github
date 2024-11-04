@@ -28,9 +28,9 @@ For inquiries, collaborations, or support, please reach out to us via our [offic
 ## Products Overview
 
 ### 1. **SAMD**
-   - **Frontend**: [Project Alpha Frontend Repository](https://github.com/dotechbiz/project-alpha-frontend)
-   - **Backend**: [Project Alpha Backend Repository](https://github.com/dotechbiz/project-alpha-backend)
-   - **Description**: A robust e-commerce platform designed to offer a seamless shopping experience with features like personalized recommendations, real-time inventory management, and secure payment integrations.
+   - **Frontend**: [Project Alpha Frontend Repository](https://github.com/dotech-biz/SAMD-FRONTEND)
+   - **Backend**: [Project Alpha Backend Repository](https://github.com/dotech-biz/samd-backend)
+   - **Description**: A Broker client for load calculator, written off portfolio, loan document storage for Banks.
 
 ### 2. **Porichiti**
    - **Frontend**: [Project Beta Frontend Repository](https://github.com/dotechbiz/project-beta-frontend)
@@ -38,9 +38,10 @@ For inquiries, collaborations, or support, please reach out to us via our [offic
    - **Description**: A dynamic social media platform that connects users through unique content-sharing features, private messaging, and activity tracking, optimized for performance and scalability.
 
 ### 3. **Live Porichiti**
-   - **Frontend**: [Project Gamma Frontend Repository](https://github.com/dotechbiz/project-gamma-frontend)
-   - **Backend**: [Project Gamma Backend Repository](https://github.com/dotechbiz/project-gamma-backend)
-   - **Description**: An AI-powered analytics tool for real-time data visualization and reporting, providing businesses with actionable insights to make data-driven decisions.
+   - **Frontend**: [Project Gamma Frontend Repository](https://github.com/dotech-biz/porichiti-frontend))
+   - **Middkeware**: [Project Gamma Backend Repository](https://github.com/dotech-biz/porichiti-middleware)
+   - **Backend**: [Project Gamma Backend Repository](https://github.com/dotech-biz/porichiti-backend)
+   - **Description**: Account details verification service for agent bankers or bank representative with Video KYC.
 
 ### 4. **CRM**
    - **Frontend**: [Project Delta Frontend Repository](https://github.com/dotechbiz/project-delta-frontend)
