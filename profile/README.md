@@ -28,8 +28,8 @@ For inquiries, collaborations, or support, please reach out to us via our [offic
 ## Products Overview
 
 ### 1. **SAMD**
-   - **Frontend**: [Project Alpha Frontend Repository](https://github.com/dotech-biz/SAMD-FRONTEND)
-   - **Backend**: [Project Alpha Backend Repository](https://github.com/dotech-biz/samd-backend)
+   - **Frontend**: [Repo Link](https://github.com/dotech-biz/SAMD-FRONTEND)
+   - **Backend**: [Repo Link](https://github.com/dotech-biz/samd-backend)
    - **Description**: A Broker client for load calculator, written off portfolio, loan document storage for Banks.
 
 ### 2. **Porichiti**
@@ -38,9 +38,9 @@ For inquiries, collaborations, or support, please reach out to us via our [offic
    - **Description**: A dynamic social media platform that connects users through unique content-sharing features, private messaging, and activity tracking, optimized for performance and scalability.
 
 ### 3. **Live Porichiti**
-   - **Frontend**: [Project Gamma Frontend Repository](https://github.com/dotech-biz/porichiti-frontend))
-   - **Middkeware**: [Project Gamma Backend Repository](https://github.com/dotech-biz/porichiti-middleware)
-   - **Backend**: [Project Gamma Backend Repository](https://github.com/dotech-biz/porichiti-backend)
+   - **Frontend**: [Repo Link](https://github.com/dotech-biz/porichiti-frontend))
+   - **Middleware**: [Middleware Link for 3rd party handle](https://github.com/dotech-biz/porichiti-middleware)
+   - **Backend**: [Repo Link](https://github.com/dotech-biz/porichiti-backend)
    - **Description**: Account details verification service for agent bankers or bank representative with Video KYC.
 
 ### 4. **CRM**
@@ -49,8 +49,9 @@ For inquiries, collaborations, or support, please reach out to us via our [offic
    - **Description**: A comprehensive CRM platform that streamlines customer relationship management with automation, detailed analytics, and a customizable dashboard for client interactions.
 
 ### 5. **BOTS**
-   - **Frontend**: [Project Delta Frontend Repository](https://github.com/dotechbiz/project-delta-frontend)
-   - **Backend**: [Project Delta Backend Repository](https://github.com/dotechbiz/project-delta-backend)
+   - **Frontend**: [Frontend](https://github.com/dotechbiz/project-delta-frontend)
+   - **Bot(API Service Broker)**: [Bot Service](https://github.com/dotech-biz/bank-asia-bot)
+   - **Backend**: [Server](https://github.com/dotech-biz/photo-match-backend)
    - **Description**: A comprehensive CRM platform that streamlines customer relationship management with automation, detailed analytics, and a customizable dashboard for client interactions.
 
 ### 6. **Archiving System**
@@ -59,13 +60,14 @@ For inquiries, collaborations, or support, please reach out to us via our [offic
    - **Description**: A comprehensive CRM platform that streamlines customer relationship management with automation, detailed analytics, and a customizable dashboard for client interactions.
 
 ### 7. **IVR**
-   - **Frontend**: [Project Delta Frontend Repository](https://github.com/dotechbiz/project-delta-frontend)
-   - **Backend**: [Project Delta Backend Repository](https://github.com/dotechbiz/project-delta-backend)
+   - **Frontend**: [Private Repo](https://github.com/dotechbiz/project-delta-frontend)
+   - **Backend**: [Private Repo](https://github.com/dotechbiz/project-delta-backend)
    - **Description**: A comprehensive CRM platform that streamlines customer relationship management with automation, detailed analytics, and a customizable dashboard for client interactions.
 
 ### 7. **Signature Card**
-   - **Frontend**: [Project Delta Frontend Repository](https://github.com/dotechbiz/project-delta-frontend)
-   - **Backend**: [Project Delta Backend Repository](https://github.com/dotechbiz/project-delta-backend)
+   - **Frontend**: [Repo Link](https://github.com/dotechbiz/project-delta-frontend)
+   - **Backend**: [Repo Link](https://github.com/dotechbiz/project-delta-backend)
+   - **Model**: [Model Link](https://github.com/dotechbiz/project-delta-backend)
    - **Description**: A comprehensive CRM platform that streamlines customer relationship management with automation, detailed analytics, and a customizable dashboard for client interactions.
 
 ---
